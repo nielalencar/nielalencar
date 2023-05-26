@@ -10,6 +10,8 @@
 
 ## Tecnologias do Dia a DIa
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nielalencar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <div style="display: inline_block"><br/>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div><br/>
