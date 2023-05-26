@@ -8,12 +8,10 @@
 
 ![DFLA GitHub stats](https://github-readme-stats.vercel.app/api?username=nielalencar&show_icons=true&theme=tokyonight)
 
-## Tecnologias que utilizo no meu dia
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nielalencar&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+## Tecnologias do Dia a DIa
 
 <div style="display: inline_block"><br/>
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div><br/>
 
-Me descobrindo na área da tecnologia e aprendendo muito com essa nova jornada.
+Me descobrindo na área da tecnologia e aprendendo muito com essa nova jornada Dev.
