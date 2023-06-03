@@ -17,4 +17,4 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
 </div><br/>
 
-Me descobrindo na área da tecnologia e aprendendo muito com essa nova jornada Dev.
+Me descobrindo nessa jornada Dev.
