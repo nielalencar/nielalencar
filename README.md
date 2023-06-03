@@ -1,5 +1,5 @@
 
-### Olá! Me chamo DFLA 😀
+### Olá! Me chamo DFLÁ
 Sou estudante de Programação no Alura e estou compartilhando meus estudos e progressos aqui com vocês.
 Será um prazer conversar com voc, também. Pode me chamar nas redes sociais 😃
 
