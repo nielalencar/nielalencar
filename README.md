@@ -17,5 +17,3 @@ Será um prazer conversar com voc, também. Pode me chamar nas redes sociais �
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
 </div><br/>
-
-![Snake Animation](https://github.com/nielalencar/nielalencar/blob/output/github-contribution-grid-snake.svg)
