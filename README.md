@@ -11,7 +11,7 @@ Será um prazer conversar com voc, também. Pode me chamar nas redes sociais �
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nielalencar&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=187 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nielalencar&layout=compact&langs_count=8&card_width=320" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nielalencar&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 ### Tecnologias que utilizo
