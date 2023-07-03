@@ -1,5 +1,6 @@
 
-## Olá! Me chamo DFLÁ
+[![Typing SVG](https://readme-typing-svg.demolab.com?weight=700&size=30&pause=1000&color=C5076F&width=435&lines=Ol%C3%A1%2C+me+chamo+DFLA)](https://git.io/typing-svg)
+
 Sou estudante de Programação no Alura e estou compartilhando meus estudos e progressos aqui com vocês.
 Será um prazer conversar com voc, também. Pode me chamar nas redes sociais 😃
 
