@@ -8,9 +8,8 @@ Será um prazer conversar com você, também. Pode me chamar nas redes sociais �
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/NielAlencar)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nielalencar&show_icons=true&theme=radical" />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nielalencar&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nielalencar&layout=compact&icons=true&theme=synthwave)
 
 ### Tecnologias
 
