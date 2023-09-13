@@ -41,6 +41,8 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 
+![image](https://github.com/nielalencar/nielalencar/assets/129704411/afd080a3-5b53-412d-a4ed-e21cf380b391)
+
 
 
 ### GitHub Stats ⚡
