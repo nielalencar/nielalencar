@@ -1,22 +1,20 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?weight=700&size=30&pause=1000&color=C5076F&width=435&lines=Ol%C3%A1%2C+me+chamo+Niel)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?weight=700&size=30&pause=1000&color=C5076F&width=435&lines=Hello,+my+name+is+Niel)](https://git.io/typing-svg)
 
-### Sobre mim
+### About me
 
-💻 Eu sou um desenvolvedor Fullstack.
+💻 I am a Fullstack developer.
 
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
-🎓 Eu estudo [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | [Programação com foco em Front-end](https://cursos.alura.com.br/user/nielalencar1) | @ [Cubos Academy](https://cubos.academy/) | @ [Alura](https://cursos.alura.com.br/user/nielalencar1).
+🎓 I study [Software Development with a Focus on Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | [Programming with a focus on Front-end](https://cursos.alura.com.br/user/nielalencar1) | @ [Cubos Academy](https://cubos.academy/) | @ [Alura](https://cursos.alura.com.br/user/nielalencar1).
 
-👩‍💻 Atualmente estudante;
+🔎 I'm also curious about the Real Estate Market;
 
-🔎 Também sou curioso sobre Mercado Imobiliário;
+✒️ I like to play Counter-Strike in my free time;
 
-✒️ Eu gosto de no meu tempo livre de jogar Counter-Strike;
-
-### Tecnologias e Ferramentas
+### Technologies and Tools
 
 
 
@@ -33,7 +31,7 @@
 
 
 
-### Eu estou estudando... 🧩
+### I'm studying... 🧩
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -49,7 +47,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nielalencar&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-### Entre em contato comigo! 📭
+### Contact me! 📭
 <div>
 <a href="https://instagram.com/nielalencarr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/daniel-alencarrr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
