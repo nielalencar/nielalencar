@@ -16,9 +16,7 @@
 
 ✒️ Eu gosto de no meu tempo livre de jogar Counter-Strike;
 
-### Eu já trabalhei com Marketing e Transações Imobiliárias.
-
-**Tecnologias e Ferramentas**
+### Tecnologias e Ferramentas
 
 
 
