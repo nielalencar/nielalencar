@@ -42,6 +42,7 @@
 
 
 ### GitHub Stats ⚡
+![Niel](https://github-readme-stats.vercel.app/api/top-langs/?username=nielalencar&layout=compact)
 
 
 ### Contact me! 📭
