@@ -40,11 +40,6 @@
 ![image](https://github.com/nielalencar/nielalencar/assets/129704411/afd080a3-5b53-412d-a4ed-e21cf380b391)
 
 
-
-### GitHub Stats ⚡
-![Niel](https://github-readme-stats.vercel.app/api/top-langs/?username=nielalencar&layout=compact)
-
-
 ### Contact me! 📭
 <div>
 <a href="https://instagram.com/nielalencarr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
