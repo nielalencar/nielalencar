@@ -3,7 +3,7 @@
 
 ### About me
 
-💻 I am a Fullstack developer.
+💻 I am a Front-end developer.
 
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
